@@ -1,0 +1,391 @@
+body{
+    
+    font-family: Lato, sans-serif;
+    
+    -webkit-font-smoothing: antialiased;
+    
+    background-color: #fff;
+}
+
+
+.container{
+    
+    max-width: 960px;
+    
+    margin: 0 auto;
+    
+    display: flex;
+    
+    justify-content: space-between;
+}
+
+    header nav li{
+    
+        list-style: none;
+        
+        display: inline-block;
+        
+        margin-right: 80px;
+        
+        color: #FFFFFF;
+    
+}
+
+header h1 img{
+    
+    height: 40px;
+    
+}
+  
+
+header nav li a{
+    
+    color: #fff;
+    text-decoration: none;
+}
+
+header{
+    
+    margin-bottom: -90px;
+}
+
+
+
+section#baner{
+    
+    background-image: url(img/denin-williams-690.png);
+    
+    background-size: cover;
+    
+    height: 600px;
+    
+    text-align: center
+    
+}
+
+
+section#baner .container .chamada h1{
+    font-size: 40px;
+    padding-top: 130px;
+    
+    color: #fff;
+    padding-left: 150px;
+}
+
+section#baner .container .chamada p{
+    font-size: 25px;
+    color: #fff;
+    padding-left: 150px;
+    
+}
+
+
+section#fotos{
+       
+      
+}
+
+
+.container2, .container3{
+    
+    display: flex;
+    
+}
+
+
+section#fotos .fot1{
+    
+    padding-top: 60px;
+    padding-left: 9px;
+    
+}
+
+section#fotos .fot2{
+    
+    padding-top: 30px;
+    padding-left: 5px;
+    
+}
+
+section#fotos .fot3{
+    
+    padding-top: 45px;
+    padding-left: 5px;
+}
+
+
+section#fotos .fot4{
+    
+    padding-top: 1px;
+    padding-left: 11px;
+}
+
+
+section#fotos .fot5{
+    
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+
+section#fotos .fot6{
+    
+    padding-top: 4px;
+    padding-left: 5px;
+}
+
+
+section#baner{
+        
+    margin-bottom: -90px;
+}
+
+section#mensagens .container4{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    padding-top: 100px;
+}
+
+section#mensagens .container4 .texto{
+    
+    padding-right: 83px;
+    padding-top: 40px;
+    color: #e2e4e7;
+    font-size: 22px;
+font-weight: 400;
+font-family: "Source Sans Pro
+
+}
+
+
+section#mensagens .container5{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 150px;
+}
+
+section#mensagens .container5 .div1{
+    
+    text-align: center;
+    padding-right: 80px;
+}
+
+section#mensagens h1{
+    margin-bottom: 0;
+    color: #fe757b;
+}
+
+section#mensagens span{
+    margin-bottom: 0;
+    color: #d6dadd;
+}
+
+section#mensagens .container5 .div2{
+    
+     text-align: center;
+    padding-right: 80px;
+}
+
+
+section#mensagens .container5 .div3{
+    
+     text-align: center;
+    padding-right: 80px;
+}
+
+
+section#mensagens .container5 .div4{
+    
+   
+    text-align: center;
+    padding-right: 80px;
+}
+
+section#mensagens .container5 .div5{
+    
+   
+    text-align: center;
+    
+}
+
+
+
+section#fotomenina{
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+section#fotomenina .fot2 li{
+    
+   display: flex;
+   padding-bottom: 50px;
+   text-decoration: none;
+
+    
+}
+
+
+section#fotomenina .li1{
+    
+    width: 439px;
+    height: 101px;
+}
+
+section#fotomenina .fot2 h3{
+    
+    width: 195px;
+    height: 20px;
+    opacity: 0.9;
+    color: #fb5c68;
+    font-family: "Source Sans Pro";
+    font-size: 22px;
+    font-weight: 700;
+    
+}
+
+section#fotomenina .fot2 small{
+    
+    width: 320px;
+    height: 49px;
+    opacity: 0.9;
+    color: #88939e;
+    font-family: "Source Sans Pro";
+    font-size: 22px;
+    font-weight: 400;
+    
+}
+
+section#fotomenina .fot2 li img{
+    
+    padding-right:  30px;
+    width: 70px;
+    height: 70px;
+    
+}
+
+section#fotomenina .fot{
+   
+ background-color: #fb5c68;   
+    
+}
+
+section#fotomenina .fot h1{
+    
+    
+    width: 433px;
+    height: 80px;
+    opacity: 0.9;
+    color: #ffffff;
+    font-family: "Source Sans Pro";
+    font-size: 36px;
+    font-weight: 400;
+    padding-left: 10px;
+    
+}
+
+
+section#fotomenina .fot2 img{
+    
+    padding-top: 0px;
+    
+}
+
+
+section#conclusao .container7{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    
+}
+
+
+section#conclusao .div1 h1{
+    
+width: 630px;
+height: 34px;
+color: #4c4c51;
+font-family: "Source Sans Pro";
+font-size: 36px;
+font-weight: 400;
+    
+    
+}
+
+
+section#conclusao .div1 p{
+    
+    width: 810px;
+    height: 49px;
+    opacity: 0.9;
+    color: #88939e;
+    font-family: "Source Sans Pro";
+    font-size: 22px;
+    font-weight: 400;
+    
+    
+}
+
+section#conclusao .div2 button{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    width: 474px;
+    height: 60px;
+    border-radius: 0 0 100px 100px;
+    background-color: #fd6e74;
+    
+}
+
+
+section#conclusao .div2{
+    
+   padding-left: 500px; 
+    
+   
+}
+
+
+section#conclusao select{
+    
+width: 474px;
+height: 60px;
+border-radius: 100px 100px 0 0;
+border: 2px solid #dbdbdb;
+padding: 30px;  
+   
+}
+
+
+
+section#conclusao .cidade{
+    
+width: 109px;
+height: 21px;
+opacity: 0.9;
+color: #88939e;
+font-family: "Source Sans Pro";
+font-size: 22px;
+font-weight: 400;
+
+   
+}
+
+
+
+
+
+
+
+
